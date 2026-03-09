@@ -126,7 +126,3 @@ Add additional input validations
 ## License
 
 This project is for educational use. You may reuse the code with attribution.
-
-🙌 Acknowledgements
-
-This project follows industry-standard ML pipeline structuring inspired by popular tutorials and production ML workflow best practices.
