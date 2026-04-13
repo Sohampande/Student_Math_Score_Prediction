@@ -1,4 +1,4 @@
-# Student Math Score Prediction – Machine Learning Project
+# Student Math Score Prediction
 
 This project is an end-to-end Machine Learning web application that predicts a student’s math score based on their personal and academic attributes.
 A user inputs relevant details through a simple interface, and the trained ML model returns the predicted performance score.
